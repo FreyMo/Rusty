@@ -1,4 +1,4 @@
-# Rusty :whale:
+# Rusty, :crab: + :whale:
 
 [![Pulls](https://shields.beevelop.com/docker/pulls/moritzfreyburger/rusty.svg?style=flat-square)](https://hub.docker.com/repository/docker/moritzfreyburger/rusty)
 [![Layers](https://shields.beevelop.com/docker/image/layers/moritzfreyburger/rusty/latest.svg?style=flat-square)](https://hub.docker.com/repository/docker/moritzfreyburger/rusty)
