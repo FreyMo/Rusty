@@ -8,7 +8,7 @@ Minimal Rust Docker sample from Scratch. Run
 
     docker run moritzfreyburger/rusty:latest
 
-and enjoy the glory of a :crab: in a :whale:.
+and enjoy the glory.
 
 ## DockerHub
 
